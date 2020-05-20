@@ -8,9 +8,9 @@
   <artifactId>my-app</artifactId>
   <version>1.0-SNAPSHOT</version>
   <scm>
-		<url>scm:git:git@github.com/Anchitaa25/maven-release-plugin-example</url>
-		<connection>scm:git:git@github.com/Anchitaa25/maven-release-plugin-example.git</connection>
-		<developerConnection>scm:git:git@github.com/Anchitaa25/maven-release-plugin-example</developerConnection>
+        <url>scm:git:git@github.com/Anchitaa25/maven-plugin</url>
+   	<connection>scm:git:git@github.com/Anchitaa25/maven-plugin.git</connection>
+	<developerConnection>scm:git:git@github.com/Anchitaa25/maven-plugin</developerConnection>
   </scm>
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->

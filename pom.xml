@@ -7,6 +7,8 @@
   <artifactId>my-app</artifactId>
   <version>1.0</version>
   <scm>
+	<url>scm:git:github.com/Anchitaa25/maven-plugin</url>
+	<connection>scm:git:github.com/Anchitaa25/maven-plugin</connection>
 	<developerConnection>scm:git:github.com/Anchitaa25/maven-plugin</developerConnection>
     <tag>1.1</tag>
   </scm>
@@ -76,7 +78,7 @@
           <version>2.5.2</version>
 	  <configuration>
 		<tagBase>
-			github.com/Anchitaa25/maven-plugin
+			github.com/Anchitaa25/maven-plugin/
 		</tagBase>
 	  </configuration>
 	</plugin>
